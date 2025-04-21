@@ -42,8 +42,8 @@ const unsigned long checkInterval = 30000; // 30 seconds
 int receivedSoilMoisture = 0;
 
 // API Configuration
-const char* OPENWEATHER_API_KEY = "da552626aaca0bf507c70ed7c260d724";
-const char* GEMINI_API_KEY = "AIzaSyBIQk3XTN5OnR_RuQ15I8D6FDaATOC9exU";
+const char* OPENWEATHER_API_KEY = "AnkitIsHero";
+const char* GEMINI_API_KEY = "Welcome";
 const char* LOCATION = "Kolkata";
 
 // Weather and AI Data
